@@ -1,4 +1,4 @@
-package starter
+package task
 
 import (
 	"github.com/pangum/pangu"
