@@ -5,5 +5,5 @@ import (
 )
 
 type Wrapper struct {
-	Task *config.Task `json:"task,omitempty" validate:"required"`
+	Task *config.Task `json:"task,omitempty" default:"{}"`
 }

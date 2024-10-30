@@ -4,7 +4,7 @@ go 1.23
 
 require (
 	github.com/goexl/log v0.0.7
-	github.com/goexl/task v0.1.3
+	github.com/goexl/task v0.1.5
 	github.com/pangum/pangu v1.4.8
 )
 
