@@ -5,13 +5,13 @@ go 1.23
 require (
 	github.com/goexl/log v0.0.7
 	github.com/goexl/task v0.1.5
-	github.com/pangum/pangu v1.4.8
+	github.com/pangum/pangu v1.5.3
 )
 
 require (
 	github.com/cpuguy83/go-md2man/v2 v2.0.5 // indirect
 	github.com/drone/envsubst v1.0.3 // indirect
-	github.com/fsnotify/fsnotify v1.7.0 // indirect
+	github.com/fsnotify/fsnotify v1.8.0 // indirect
 	github.com/gabriel-vasile/mimetype v1.4.6 // indirect
 	github.com/go-playground/locales v0.14.1 // indirect
 	github.com/go-playground/universal-translator v0.18.1 // indirect
