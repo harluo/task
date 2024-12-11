@@ -4,7 +4,7 @@ go 1.23
 
 require (
 	github.com/goexl/log v0.0.7
-	github.com/goexl/task v0.1.5
+	github.com/goexl/task v0.2.3
 	github.com/pangum/pangu v1.4.8
 )
 
@@ -20,7 +20,7 @@ require (
 	github.com/goexl/env v0.0.2 // indirect
 	github.com/goexl/exception v0.0.1 // indirect
 	github.com/goexl/gfx v0.2.3 // indirect
-	github.com/goexl/gox v1.8.9 // indirect
+	github.com/goexl/gox v1.9.2 // indirect
 	github.com/goexl/mengpo v0.2.6 // indirect
 	github.com/goexl/structer v0.1.9 // indirect
 	github.com/goexl/xiren v0.0.8 // indirect
