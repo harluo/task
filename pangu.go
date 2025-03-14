@@ -7,8 +7,6 @@ import (
 
 func init() {
 	pangu.New().Get().Dependency().Puts(
-		core.NewWrapper,
-		core.NewConfig,
 		core.NewAgent,
 	).Build().Apply()
 }
