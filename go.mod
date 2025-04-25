@@ -3,8 +3,8 @@ module github.com/pangum/task
 go 1.24
 
 require (
-	github.com/goexl/log v0.0.7
-	github.com/goexl/task v0.2.3
+	github.com/goexl/log v0.0.9
+	github.com/goexl/task v0.2.8
 	github.com/pangum/pangu v1.5.8
 )
 
