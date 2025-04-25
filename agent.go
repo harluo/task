@@ -1,7 +1,7 @@
 package task
 
 import (
-	"github.com/goexl/task"
+	"github.com/harluo/task/internal/core"
 )
 
-type Agent = task.Agent
+type Agent = core.Agent
