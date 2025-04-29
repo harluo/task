@@ -5,7 +5,7 @@ go 1.24
 require (
 	github.com/goexl/log v0.0.9
 	github.com/goexl/task v0.2.8
-	github.com/harluo/di v0.0.3
+	github.com/harluo/di v0.0.5
 )
 
 require (
